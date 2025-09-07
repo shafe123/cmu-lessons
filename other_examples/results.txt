@@ -1,0 +1,3 @@
+The sentence in line 0 conforms to the rule.
+The sentence in line 1 conforms to the rule.
+The sentence in line 2 does not conform to the rule. (word number: 8)
