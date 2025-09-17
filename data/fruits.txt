@@ -1,0 +1,5 @@
+apple, 2.5, 100
+banana, 1.0, 200
+orange, 1.5, 150
+kiwi, 3.0, 90
+mango, 2.0, 180
