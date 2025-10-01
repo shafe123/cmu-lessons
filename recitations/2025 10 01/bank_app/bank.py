@@ -4,10 +4,7 @@ from bank_app.errors import (
     AccountDoesNotExistError,
     InvalidAccountNumber,
 )
-
-
-def validate_account_number(number):
-    return len(str(number)) == 4
+from bank_app.utilities import validate_account_number
 
 
 class Bank:

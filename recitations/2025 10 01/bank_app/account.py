@@ -1,5 +1,5 @@
 from bank_app.errors import InsufficientFundsError, InvalidAccountNumber
-from bank_app.bank import validate_account_number
+from bank_app.utilities import validate_account_number
 
 
 class Account:
@@ -7,7 +7,7 @@ class Account:
         if not validate_account_number(account_number):
             raise InvalidAccountNumber(f"{account_number} is not valid")
 
-        if balance <= 0:
+        if balance < 0:
             raise ValueError(f"Initial balance cannot be negative")
 
         self.account_number = account_number
