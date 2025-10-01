@@ -1,3 +1,11 @@
 class InsufficientFundsError(Exception):
-    def __init__(self, *args: object) -> None:
-        super().__init__(*args)
+    pass
+
+class DuplicateAccountError(Exception):
+    pass
+
+class AccountDoesNotExistError(Exception):
+    pass
+
+class InvalidAccountNumber(Exception):
+    pass
