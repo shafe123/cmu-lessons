@@ -1,0 +1,4 @@
+To Do:
+x 2025-10-05: Review project roadmap
+o 2025-10-05: Schedule dentist appointment
+o 2025-10-06: Draft email to the team
