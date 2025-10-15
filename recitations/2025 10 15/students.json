@@ -1,0 +1,36 @@
+{
+  "students": [
+    {
+      "name": "Linda",
+      "level": 8,
+      "course": [
+        {
+          "name": "Math",
+          "elective": false,
+          "grade": 80
+        },
+        {
+          "name": "Art",
+          "elective": true,
+          "grade": 90
+        }
+      ]
+    },
+    {
+      "name": "Mark",
+      "level": 8,
+      "course": [
+        {
+          "name": "Math",
+          "elective": false,
+          "grade": 85
+        },
+        {
+          "name": "Drama",
+          "elective": true,
+          "grade": 95
+        }
+      ]
+    }
+  ]
+}

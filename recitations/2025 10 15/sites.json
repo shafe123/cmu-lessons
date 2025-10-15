@@ -1,0 +1,28 @@
+{
+  "sites": [
+    {
+      "name": "Charlie Chaplin",
+      "official": true,
+      "url": "https://www.charliechaplin.com/",
+      "socialmedia": [
+        {"site": "twitter", "url": "https://twitter.com/ChaplinOfficial"},
+        {"site": "facebook", "url": "https://www.facebook.com/CharlieChaplinOfficial"},
+        {"site": "youtube", "url": "https://www.youtube.com/channel/UCe7sQfrqTHc-hWXdenf7VxQ"},
+        {"site": "instagram", "url": "https://www.instagram.com/charliechaplinofficial"},
+        {"site": "spotify", "url": null}
+      ]
+    },
+    {
+      "name": "Frank Sinatra",
+      "official": true,
+      "url": "http://www.sinatra.com",
+      "socialmedia": [
+        {"site": "twitter", "url": "https://twitter.com/franksinatra"},
+        {"site": "facebook", "url": "https://www.facebook.com/sinatra"},
+        {"site": "youtube", "url": "https://www.youtube.com/user/FrankSinatra"},
+        {"site": "instagram", "url": "https://instagram.com/sinatra"},
+        {"site": "spotify", "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+car_id,company,model,year,sales
+1,Hyundai,Elantra,2017,9100,qqq
+2,Ford,Focus,2017,8000
+3,Chevrolet,Malibu,2017,7200
+4,Toyota,Corolla,2017,5900
+5,Audi,A4,2017,5300
+6,Tesla,Model 3,2017,5100
+7,BMW,3 Series,2017,3200
+8,Honda,Civic,2017,3200
+9,Chevrolet,Malibu,2018,8000
+10,Honda,Civic,2018,5000
+11,Audi,A4,2018,4300
+12,BMW,3 Series,2018,3700
+13,Hyundai,Elantra,2018,3400
+14,Toyota,Corolla,2018,3000
+15,Ford,Focus,2018,2700
+16,Tesla,Model 3,2018,2200
+17,BMW,3 Series,2019,8900
+18,Tesla,Model 3,2019,8700
+19,Honda,Civic,2019,8300
+20,Chevrolet,Malibu,2019,7000
+21,Toyota,Corolla,2019,6800
+22,Ford,Focus,2019,6400
+23,Hyundai,Elantra,2019,4400
+24,Audi,A4,2019,3100
+25,Ford,Focus,2020,9600
+26,Chevrolet,Malibu,2020,8500
+27,Hyundai,Elantra,2020,7400
+28,Honda,Civic,2020,6900
+29,Tesla,Model 3,2020,6200
+30,Toyota,Corolla,2020,5400
+31,BMW,3 Series,2020,3200
+32,Audi,A4,2020,1200
+33,Chevrolet,Malibu,2021,9000
+34,Hyundai,Elantra,2021,8900
+35,Toyota,Corolla,2021,8700
+36,Ford,Focus,2021,8300
+37,Tesla,Model 3,2021,8000
+38,BMW,3 Series,2021,7200
+39,Audi,A4,2021,6700
+40,Honda,Civic,2021,6200
+41,Tesla,Model 3,2022,9900
+42,Chevrolet,Malibu,2022,9600
+43,Hyundai,Elantra,2022,8900
+44,BMW,3 Series,2022,7800
+45,Ford,Focus,2022,7800
+46,Toyota,Corolla,2022,6200
+47,Honda,Civic,2022,4500
+48,Audi,A4,2022,3000
+49,Audi,A4,2023,9900
+50,Chevrolet,Malibu,2023,9900
+51,BMW,3 Series,2023,9300
+52,Hyundai,Elantra,2023,9100
+53,Honda,Civic,2023,8300
+54,Ford,Focus,2023,7000
+55,Toyota,Corolla,2023,6600
+56,Tesla,Model 3,2023,6000

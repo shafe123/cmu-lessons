@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+    <movie id="1" language="English">
+        <title>2001: A Space Odyssey</title>
+        <director>Stanley Kubrick</director>
+        <year>1968</year>
+        <rating>8.3</rating>
+    </movie>
+    <movie id="2" language="French">
+        <title>Amélie</title>
+        <director>Jean-Pierre Jeunet</director>
+        <year>2001</year>
+        <rating>8.3</rating>
+    </movie>    
+    <movie id="3" language="English">
+        <title>The King&apos;s Speech</title>
+        <director>Tom Hooper</director>
+        <year>2010</year>
+        <rating>8.0</rating>
+    </movie>
+    <movie id="4" language="English">
+        <title>Willy Wonka &amp; the Chocolate Factory</title>
+        <director>Mel Stuart</director>
+        <year>1971</year>
+        <rating>7.8</rating>
+    </movie>
+</movies>

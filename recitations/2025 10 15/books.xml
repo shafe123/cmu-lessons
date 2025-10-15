@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+   <book isbn="978-0140449105" favorite="False">
+      <year>1516</year>
+      <title>Utopia</title>
+      <author>Sir Thomas More</author>
+      <publication>
+         <date>May 6, 2003</date>
+         <publisher>Penguin Classics</publisher>
+      </publication>
+   </book>
+   <book isbn="978-0060935467" favorite="True">
+      <year>1960</year>
+      <title>To Kill A Mockingbird</title>
+      <author>Harper Lee</author>
+      <publication>
+         <date>January 1, 2002</date>
+         <publisher>Harper Perennial</publisher>
+      </publication>
+   </book>
+</books>
