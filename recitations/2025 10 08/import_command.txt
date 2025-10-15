@@ -1,0 +1,1 @@
+pip install git+https://github.com/JTSIV1/wk6-python-review-package.git#egg=ai_ppp_python_review_solutions
