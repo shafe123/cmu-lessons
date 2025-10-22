@@ -1,0 +1,397 @@
+[
+    {
+        "car_id": "1",
+        "company": "Hyundai",
+        "model": "Elantra",
+        "year": 2017,
+        "sales": 9100,
+        "null": [
+            "qqq"
+        ]
+    },
+    {
+        "car_id": "2",
+        "company": "Ford",
+        "model": "Focus",
+        "year": 2017,
+        "sales": 8000
+    },
+    {
+        "car_id": "3",
+        "company": "Chevrolet",
+        "model": "Malibu",
+        "year": 2017,
+        "sales": 7200
+    },
+    {
+        "car_id": "4",
+        "company": "Toyota",
+        "model": "Corolla",
+        "year": 2017,
+        "sales": 5900
+    },
+    {
+        "car_id": "5",
+        "company": "Audi",
+        "model": "A4",
+        "year": 2017,
+        "sales": 5300
+    },
+    {
+        "car_id": "6",
+        "company": "Tesla",
+        "model": "Model 3",
+        "year": 2017,
+        "sales": 5100
+    },
+    {
+        "car_id": "7",
+        "company": "BMW",
+        "model": "3 Series",
+        "year": 2017,
+        "sales": 3200
+    },
+    {
+        "car_id": "8",
+        "company": "Honda",
+        "model": "Civic",
+        "year": 2017,
+        "sales": 3200
+    },
+    {
+        "car_id": "9",
+        "company": "Chevrolet",
+        "model": "Malibu",
+        "year": 2018,
+        "sales": 8000
+    },
+    {
+        "car_id": "10",
+        "company": "Honda",
+        "model": "Civic",
+        "year": 2018,
+        "sales": 5000
+    },
+    {
+        "car_id": "11",
+        "company": "Audi",
+        "model": "A4",
+        "year": 2018,
+        "sales": 4300
+    },
+    {
+        "car_id": "12",
+        "company": "BMW",
+        "model": "3 Series",
+        "year": 2018,
+        "sales": 3700
+    },
+    {
+        "car_id": "13",
+        "company": "Hyundai",
+        "model": "Elantra",
+        "year": 2018,
+        "sales": 3400
+    },
+    {
+        "car_id": "14",
+        "company": "Toyota",
+        "model": "Corolla",
+        "year": 2018,
+        "sales": 3000
+    },
+    {
+        "car_id": "15",
+        "company": "Ford",
+        "model": "Focus",
+        "year": 2018,
+        "sales": 2700
+    },
+    {
+        "car_id": "16",
+        "company": "Tesla",
+        "model": "Model 3",
+        "year": 2018,
+        "sales": 2200
+    },
+    {
+        "car_id": "17",
+        "company": "BMW",
+        "model": "3 Series",
+        "year": 2019,
+        "sales": 8900
+    },
+    {
+        "car_id": "18",
+        "company": "Tesla",
+        "model": "Model 3",
+        "year": 2019,
+        "sales": 8700
+    },
+    {
+        "car_id": "19",
+        "company": "Honda",
+        "model": "Civic",
+        "year": 2019,
+        "sales": 8300
+    },
+    {
+        "car_id": "20",
+        "company": "Chevrolet",
+        "model": "Malibu",
+        "year": 2019,
+        "sales": 7000
+    },
+    {
+        "car_id": "21",
+        "company": "Toyota",
+        "model": "Corolla",
+        "year": 2019,
+        "sales": 6800
+    },
+    {
+        "car_id": "22",
+        "company": "Ford",
+        "model": "Focus",
+        "year": 2019,
+        "sales": 6400
+    },
+    {
+        "car_id": "23",
+        "company": "Hyundai",
+        "model": "Elantra",
+        "year": 2019,
+        "sales": 4400
+    },
+    {
+        "car_id": "24",
+        "company": "Audi",
+        "model": "A4",
+        "year": 2019,
+        "sales": 3100
+    },
+    {
+        "car_id": "25",
+        "company": "Ford",
+        "model": "Focus",
+        "year": 2020,
+        "sales": 9600
+    },
+    {
+        "car_id": "26",
+        "company": "Chevrolet",
+        "model": "Malibu",
+        "year": 2020,
+        "sales": 8500
+    },
+    {
+        "car_id": "27",
+        "company": "Hyundai",
+        "model": "Elantra",
+        "year": 2020,
+        "sales": 7400
+    },
+    {
+        "car_id": "28",
+        "company": "Honda",
+        "model": "Civic",
+        "year": 2020,
+        "sales": 6900
+    },
+    {
+        "car_id": "29",
+        "company": "Tesla",
+        "model": "Model 3",
+        "year": 2020,
+        "sales": 6200
+    },
+    {
+        "car_id": "30",
+        "company": "Toyota",
+        "model": "Corolla",
+        "year": 2020,
+        "sales": 5400
+    },
+    {
+        "car_id": "31",
+        "company": "BMW",
+        "model": "3 Series",
+        "year": 2020,
+        "sales": 3200
+    },
+    {
+        "car_id": "32",
+        "company": "Audi",
+        "model": "A4",
+        "year": 2020,
+        "sales": 1200
+    },
+    {
+        "car_id": "33",
+        "company": "Chevrolet",
+        "model": "Malibu",
+        "year": 2021,
+        "sales": 9000
+    },
+    {
+        "car_id": "34",
+        "company": "Hyundai",
+        "model": "Elantra",
+        "year": 2021,
+        "sales": 8900
+    },
+    {
+        "car_id": "35",
+        "company": "Toyota",
+        "model": "Corolla",
+        "year": 2021,
+        "sales": 8700
+    },
+    {
+        "car_id": "36",
+        "company": "Ford",
+        "model": "Focus",
+        "year": 2021,
+        "sales": 8300
+    },
+    {
+        "car_id": "37",
+        "company": "Tesla",
+        "model": "Model 3",
+        "year": 2021,
+        "sales": 8000
+    },
+    {
+        "car_id": "38",
+        "company": "BMW",
+        "model": "3 Series",
+        "year": 2021,
+        "sales": 7200
+    },
+    {
+        "car_id": "39",
+        "company": "Audi",
+        "model": "A4",
+        "year": 2021,
+        "sales": 6700
+    },
+    {
+        "car_id": "40",
+        "company": "Honda",
+        "model": "Civic",
+        "year": 2021,
+        "sales": 6200
+    },
+    {
+        "car_id": "41",
+        "company": "Tesla",
+        "model": "Model 3",
+        "year": 2022,
+        "sales": 9900
+    },
+    {
+        "car_id": "42",
+        "company": "Chevrolet",
+        "model": "Malibu",
+        "year": 2022,
+        "sales": 9600
+    },
+    {
+        "car_id": "43",
+        "company": "Hyundai",
+        "model": "Elantra",
+        "year": 2022,
+        "sales": 8900
+    },
+    {
+        "car_id": "44",
+        "company": "BMW",
+        "model": "3 Series",
+        "year": 2022,
+        "sales": 7800
+    },
+    {
+        "car_id": "45",
+        "company": "Ford",
+        "model": "Focus",
+        "year": 2022,
+        "sales": 7800
+    },
+    {
+        "car_id": "46",
+        "company": "Toyota",
+        "model": "Corolla",
+        "year": 2022,
+        "sales": 6200
+    },
+    {
+        "car_id": "47",
+        "company": "Honda",
+        "model": "Civic",
+        "year": 2022,
+        "sales": 4500
+    },
+    {
+        "car_id": "48",
+        "company": "Audi",
+        "model": "A4",
+        "year": 2022,
+        "sales": 3000
+    },
+    {
+        "car_id": "49",
+        "company": "Audi",
+        "model": "A4",
+        "year": 2023,
+        "sales": 9900
+    },
+    {
+        "car_id": "50",
+        "company": "Chevrolet",
+        "model": "Malibu",
+        "year": 2023,
+        "sales": 9900
+    },
+    {
+        "car_id": "51",
+        "company": "BMW",
+        "model": "3 Series",
+        "year": 2023,
+        "sales": 9300
+    },
+    {
+        "car_id": "52",
+        "company": "Hyundai",
+        "model": "Elantra",
+        "year": 2023,
+        "sales": 9100
+    },
+    {
+        "car_id": "53",
+        "company": "Honda",
+        "model": "Civic",
+        "year": 2023,
+        "sales": 8300
+    },
+    {
+        "car_id": "54",
+        "company": "Ford",
+        "model": "Focus",
+        "year": 2023,
+        "sales": 7000
+    },
+    {
+        "car_id": "55",
+        "company": "Toyota",
+        "model": "Corolla",
+        "year": 2023,
+        "sales": 6600
+    },
+    {
+        "car_id": "56",
+        "company": "Tesla",
+        "model": "Model 3",
+        "year": 2023,
+        "sales": 6000
+    }
+]
