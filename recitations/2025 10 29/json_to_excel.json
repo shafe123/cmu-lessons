@@ -1,0 +1,17 @@
+{
+    "Alice": {
+        "age": 25,
+        "city": "New York",
+        "hobbies": ["Reading", "Traveling"]
+    },
+    "Bob": {
+        "age": 30,
+        "city": "San Francisco",
+        "hobbies": ["Hiking", "Cooking"]
+    },
+    "Charlie": {
+        "age": 35,
+        "city": "Chicago",
+        "hobbies": ["Running"]
+    }
+}
