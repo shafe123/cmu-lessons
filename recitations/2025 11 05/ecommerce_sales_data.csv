@@ -1,0 +1,101 @@
+Order_ID,Customer_ID,Product,Category,Order_Date,Quantity,Price,Total_Sale
+1,C045,Refrigerator,Electronics,2024-04-04,2,556,1112
+2,C048,Blender,Clothing,2024-03-07,3,648,1944
+3,C001,Refrigerator,Home & Kitchen,2024-01-02,4,211,844
+4,C004,Blender,Electronics,2024-03-03,2,215,430
+5,C004,Smartphone,Electronics,2024-03-08,4,327,1308
+6,C040,Headphones,Electronics,2024-04-07,4,156,624
+7,C010,Laptop,Electronics,2024-03-28,2,972,1944
+8,C020,Blender,Home & Kitchen,2024-02-20,2,879,1758
+9,C022,Blender,Electronics,2024-01-06,2,113,226
+10,C037,Refrigerator,Electronics,2024-02-15,1,911,911
+11,C024,Refrigerator,Home & Kitchen,2024-01-02,3,770,2310
+12,C007,Headphones,Home & Kitchen,2024-02-14,3,107,321
+13,C025,Blender,Electronics,2024-04-07,1,180,180
+14,C025,Headphones,Electronics,2024-02-05,2,167,334
+15,C013,Laptop,Clothing,2024-02-18,2,604,1208
+16,C002,T-shirt,Electronics,2024-03-09,1,475,475
+17,C039,Laptop,Clothing,2024-03-29,4,107,428
+18,C040,T-shirt,Clothing,2024-04-01,1,33,33
+19,C024,Headphones,Home & Kitchen,2024-01-22,1,334,334
+20,C047,T-shirt,Clothing,2024-02-26,4,613,2452
+21,C025,Refrigerator,Electronics,2024-03-27,3,140,420
+22,C018,Smartphone,Electronics,2024-02-20,2,904,1808
+23,C038,Laptop,Footwear,2024-04-01,3,971,2913
+24,C026,Refrigerator,Electronics,2024-04-02,2,852,1704
+25,C014,Headphones,Home & Kitchen,2024-01-09,3,735,2205
+26,C009,Laptop,Electronics,2024-01-28,1,752,752
+27,C010,Sneakers,Electronics,2024-01-01,3,952,2856
+28,C021,Refrigerator,Footwear,2024-03-25,1,301,301
+29,C017,Laptop,Home & Kitchen,2024-03-05,2,820,1640
+30,C006,T-shirt,Clothing,2024-03-25,2,446,892
+31,C016,Headphones,Clothing,2024-01-27,2,802,1604
+32,C048,Smartphone,Electronics,2024-02-09,1,490,490
+33,C001,Sneakers,Home & Kitchen,2024-02-25,4,304,1216
+34,C019,Smartphone,Electronics,2024-01-17,1,296,296
+35,C036,Refrigerator,Footwear,2024-02-06,4,998,3992
+36,C025,Sneakers,Home & Kitchen,2024-01-15,1,344,344
+37,C030,Headphones,Electronics,2024-02-26,1,554,554
+38,C020,Blender,Footwear,2024-03-11,1,247,247
+39,C020,Laptop,Home & Kitchen,2024-01-29,1,910,910
+40,C015,Smartphone,Home & Kitchen,2024-02-13,2,615,1230
+41,C040,Headphones,Footwear,2024-03-16,4,667,2668
+42,C033,Blender,Electronics,2024-02-09,4,988,3952
+43,C002,Headphones,Electronics,2024-03-30,1,593,593
+44,C010,Laptop,Electronics,2024-03-04,4,673,2692
+45,C033,Sneakers,Home & Kitchen,2024-03-30,3,537,1611
+46,C032,T-shirt,Clothing,2024-03-09,3,276,828
+47,C011,Laptop,Home & Kitchen,2024-02-14,2,156,312
+48,C024,Blender,Clothing,2024-04-07,2,227,454
+49,C036,Blender,Footwear,2024-01-12,2,483,966
+50,C012,Refrigerator,Electronics,2024-03-17,3,969,2907
+51,C029,Laptop,Home & Kitchen,2024-02-11,2,159,318
+52,C035,Headphones,Home & Kitchen,2024-03-08,2,24,48
+53,C001,Smartphone,Electronics,2024-01-25,1,443,443
+54,C001,Refrigerator,Electronics,2024-02-01,2,368,736
+55,C037,Laptop,Home & Kitchen,2024-04-06,3,961,2883
+56,C006,Smartphone,Home & Kitchen,2024-02-28,2,302,604
+57,C039,Smartphone,Footwear,2024-03-06,2,606,1212
+58,C041,Sneakers,Footwear,2024-02-23,1,840,840
+59,C018,Refrigerator,Footwear,2024-01-24,1,453,453
+60,C016,Blender,Home & Kitchen,2024-02-09,2,239,478
+61,C005,Sneakers,Electronics,2024-03-02,2,839,1678
+62,C042,Refrigerator,Electronics,2024-02-17,3,759,2277
+63,C043,Refrigerator,Electronics,2024-02-17,4,893,3572
+64,C032,Sneakers,Electronics,2024-03-12,4,806,3224
+65,C002,Sneakers,Electronics,2024-01-29,2,393,786
+66,C002,Smartphone,Home & Kitchen,2024-02-08,4,310,1240
+67,C040,Laptop,Electronics,2024-03-15,4,583,2332
+68,C042,Blender,Footwear,2024-03-28,4,690,2760
+69,C036,Refrigerator,Electronics,2024-01-11,3,457,1371
+70,C039,Refrigerator,Home & Kitchen,2024-01-10,3,846,2538
+71,C012,Headphones,Clothing,2024-02-05,2,959,1918
+72,C047,T-shirt,Clothing,2024-02-25,3,843,2529
+73,C019,Sneakers,Electronics,2024-01-04,4,528,2112
+74,C028,Headphones,Footwear,2024-04-06,3,806,2418
+75,C001,Sneakers,Electronics,2024-02-02,1,961,961
+76,C015,Refrigerator,Electronics,2024-01-23,4,875,3500
+77,C036,Smartphone,Footwear,2024-01-15,4,469,1876
+78,C013,T-shirt,Clothing,2024-01-10,2,346,692
+79,C043,Laptop,Electronics,2024-04-08,2,510,1020
+80,C021,T-shirt,Home & Kitchen,2024-01-27,2,73,146
+81,C012,T-shirt,Clothing,2024-02-23,3,836,2508
+82,C005,Refrigerator,Electronics,2024-02-14,2,114,228
+83,C007,T-shirt,Home & Kitchen,2024-01-10,2,79,158
+84,C005,Refrigerator,Home & Kitchen,2024-02-05,2,356,712
+85,C048,Laptop,Electronics,2024-02-16,3,686,2058
+86,C004,Blender,Electronics,2024-03-25,1,656,656
+87,C013,Smartphone,Home & Kitchen,2024-03-31,4,183,732
+88,C037,Smartphone,Clothing,2024-01-04,2,590,1180
+89,C041,Headphones,Home & Kitchen,2024-02-20,1,965,965
+90,C015,Laptop,Footwear,2024-01-17,4,126,504
+91,C016,Blender,Clothing,2024-03-18,2,221,442
+92,C021,Smartphone,Electronics,2024-03-27,2,320,640
+93,C036,Headphones,Home & Kitchen,2024-02-11,3,801,2403
+94,C024,Laptop,Electronics,2024-01-14,1,909,909
+95,C016,Headphones,Footwear,2024-01-04,3,858,2574
+96,C014,Sneakers,Electronics,2024-04-08,4,570,2280
+97,C022,Smartphone,Electronics,2024-02-07,1,699,699
+98,C049,Laptop,Footwear,2024-02-12,3,668,2004
+99,C006,Headphones,Electronics,2024-01-06,1,33,33
+100,C042,Refrigerator,Electronics,2024-02-06,3,923,2769
