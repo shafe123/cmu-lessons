@@ -1,0 +1,4 @@
+book_id,title,author,is_free,price,rating,genre
+1,The Science of Cooking,Jane Doe,True,0,5,Cooking
+2,The Art of Programming,John Smith,False,25,4,Programming
+3,Mastering Data Analysis,Mary Johnson,False,40,5,Data Science
