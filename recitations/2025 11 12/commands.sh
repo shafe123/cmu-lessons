@@ -27,12 +27,13 @@ find *.txt | xargs sed -s -E -i.bak 's/[[:alnum:].]+@[[:alnum:]]+\.com/<EMAIL_RE
 # Hint: Use awk to select specific columns (skip header row)
 # Challenge: Do it by dynamically finding the column numbers based on the header row
 ############################################################
-
+awk -F ',' 'NR > 1 {print $2 "\t" $5}' books_metadata.csv
 
 ############################################################
 # TODO 5 — Count how many books are free (is_free == True)
 # Hint: Use awk to filter and count
 # Challenge: Do it by dynamically finding the column number based on the header row
 ############################################################
+awk -F ',' 'NR > 1 {if (match($4, /True/)) count++} END {print count}' books_metadata.csv
 
 cd ..
